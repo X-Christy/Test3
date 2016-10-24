@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Test3</string>
+    <string name="action_settings">Settings</string>
+    <string name="textViewUser">User Id</string>
+    <string name="textViewPsw">Password</string>
+    <string name="editTextUser">User Id</string>
+    <string name="editTextPsw">Password</string>
+    <string name="textViewLname">语言选项 ：</string>
+    <string name="textViewSname">性别选项 ：</string>
+    <string name="checkBoxC">Chinese</string>
+    <string name="checkBoxJAVA">Japan</string>
+    <string name="checkBoxPHP">English</string>
+    <string name="radioGroupSex">sex</string>
+    <string name="radioButtonMale">男</string>
+    <string name="radioButtonFemale">女</string>
+    <string name="buttonOK">确认</string>
+    <string name="buttonCancel">取消</string>
+
+</resources>
